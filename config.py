@@ -11,5 +11,5 @@ DEBUG = True
 
 
 #  DATABASE URL IMPLEMENTED
-SQLALCHEMY_DATABASE_URI = 'postgres://gzkfzewmalkkyw:5221e5f9e3c855c9692796fc5754d6c98d769498b3fab61543e4c8ebe31149fd@ec2-50-19-255-190.compute-1.amazonaws.com:5432/d63ubnjc9mmd9p'
+SQLALCHEMY_DATABASE_URI = 'postgres://guxluloxutmqlr:3b93bd942aa652658291c0bea501a271d75224c9d4a0cc96172e75cf8a267979@ec2-34-235-198-25.compute-1.amazonaws.com:5432/d2adjsjdrv8np1'
 SQLALCHEMY_TRACK_MODIFICATIONS = True
