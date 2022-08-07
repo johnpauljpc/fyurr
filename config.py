@@ -11,5 +11,5 @@ DEBUG = True
 
 
 #  DATABASE URL IMPLEMENTED
-SQLALCHEMY_DATABASE_URI = 'postgresql://postgres:07061651502@localhost:5432/fyyur'
+SQLALCHEMY_DATABASE_URI = 'postgres://gzkfzewmalkkyw:5221e5f9e3c855c9692796fc5754d6c98d769498b3fab61543e4c8ebe31149fd@ec2-50-19-255-190.compute-1.amazonaws.com:5432/d63ubnjc9mmd9p'
 SQLALCHEMY_TRACK_MODIFICATIONS = True
